@@ -1,0 +1,16 @@
+{
+  "name": "lingyun-club",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "description": "凌云社官方网站框架 —— VitePress 纯静态、默认主题、零内容，由管理后台维护数据",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.3",
+    "vue": "^3.5.13"
+  }
+}
